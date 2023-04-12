@@ -1,1 +1,4 @@
 # BizCardX-Extracting-Business-Card-Data-with-OCR
+The project would be a Streamlit application that allows users to upload an image of a business card and extract relevant information from it using easyOCR.
+The extracted information would include the company name, card holder name, designation, mobile number, email address, website URL, area, city, state, and pincode. The extracted information would then be displayed in the application's graphical user interface (GUI). The application will have a simple
+and intuitive user interface that guides users through the process of uploading the business card image and extracting its information. The extracted information will be displayed in a clean and organized manner, and users can be able to easily add it to the database with the click of a button.
